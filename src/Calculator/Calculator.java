@@ -21,7 +21,7 @@ public class Calculator {
         return secondNum;
     }
 
-    public int getOperator() {
+    public char getOperator() {
         return operator;
     }
 
